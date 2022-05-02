@@ -85,7 +85,7 @@
 				?>
 
 			</nav><!-- #site-navigation -->
-			<div class="site-branding hhh">
+			<div class="site-branding ooo">
 				<a href="/" title="גאנט ישראל">
 					<img src="<?php echo get_template_directory_uri();?>/dist/images/logo.svg" aria-hidden="false" alt="">
 				</a>	
